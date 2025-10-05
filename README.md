@@ -6,8 +6,9 @@ The dashboard presents data in a **visual and interactive format**, allowing adm
 
 - View and manage **student details** such as personal information, enrollment data, and academic progress.
 - Monitor and analyze **fee-related information**, including paid, pending, and overdue fees.
-- Track trends and summaries using **charts, tables, and key metrics**.
+- Track trends and summaries using **charts and key metrics**.
 - Ensure data integrity through validation during file uploads.
 
 The project aims to create an **efficient, user-friendly, and scalable system** that simplifies academic data management while supporting informed decision-making.
+
 
